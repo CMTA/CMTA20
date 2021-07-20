@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MPL-2.0
+
 /* 
  * Copyright (c) Capital Market and Technology Association, 2018-2019
  * https://cmta.ch
@@ -7,7 +9,7 @@
  * file, You can obtain one at https://mozilla.org/MPL/2.0/. 
  */
  
-pragma solidity ^0.5.3;
+pragma solidity >=0.5.3 <0.9.0;
 
 /**
  * @title IIdentifiable
